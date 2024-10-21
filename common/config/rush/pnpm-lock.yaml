@@ -1,0 +1,17 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: false
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .: {}
+
+  ../../libraries/rush-bug-repro-a: {}
+
+  ../../libraries/rush-bug-repro-b:
+    devDependencies:
+      rush-bug-repro-a:
+        specifier: workspace:*
+        version: link:../rush-bug-repro-a
