@@ -2,6 +2,26 @@
   "name": "rush-bug-repro-b-package",
   "entries": [
     {
+      "version": "1.0.4",
+      "tag": "rush-bug-repro-b-package_v1.0.4",
+      "date": "Tue, 22 Oct 2024 07:15:12 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "some update"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"rush-bug-repro-a-package\" from `1.0.3` to `1.0.4`"
+          },
+          {
+            "comment": "Updating dependency \"rush-bug-repro-a-package\" from `1.0.3` to `1.0.4`"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.3",
       "tag": "rush-bug-repro-b-package_v1.0.3",
       "date": "Tue, 22 Oct 2024 07:09:18 GMT",

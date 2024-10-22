@@ -2,6 +2,18 @@
   "name": "rush-bug-repro-a-package",
   "entries": [
     {
+      "version": "1.0.4",
+      "tag": "rush-bug-repro-a-package_v1.0.4",
+      "date": "Tue, 22 Oct 2024 07:15:12 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "some update"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.3",
       "tag": "rush-bug-repro-a-package_v1.0.3",
       "date": "Tue, 22 Oct 2024 07:09:18 GMT",

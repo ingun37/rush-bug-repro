@@ -1,6 +1,6 @@
 {
   "name": "rush-bug-repro-b-package",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,9 +9,9 @@
   "license": "ISC",
   "description": "",
   "peerDependencies": {
-    "rush-bug-repro-a-package": "1.0.3"
+    "rush-bug-repro-a-package": "1.0.4"
   },
   "devDependencies": {
-    "rush-bug-repro-a-package": "workspace:1.0.3"
+    "rush-bug-repro-a-package": "workspace:1.0.4"
   }
 }
