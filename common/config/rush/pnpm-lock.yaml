@@ -12,6 +12,6 @@ importers:
 
   ../../libraries/rush-bug-repro-b:
     devDependencies:
-      rush-bug-repro-a:
+      rush-bug-repro-a-package:
         specifier: workspace:*
         version: link:../rush-bug-repro-a
