@@ -1,3 +1,3 @@
 export function packageA() {
-    console.log('');
+    console.log('a');
 }
