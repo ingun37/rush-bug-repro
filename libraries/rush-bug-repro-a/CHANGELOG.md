@@ -1,6 +1,13 @@
 # Change Log - rush-bug-repro-a-package
 
-This log was last generated on Wed, 23 Oct 2024 23:50:57 GMT and should not be manually modified.
+This log was last generated on Wed, 23 Oct 2024 23:54:04 GMT and should not be manually modified.
+
+## 1.0.7
+Wed, 23 Oct 2024 23:54:04 GMT
+
+### Patches
+
+- update
 
 ## 1.0.6
 Wed, 23 Oct 2024 23:50:57 GMT
