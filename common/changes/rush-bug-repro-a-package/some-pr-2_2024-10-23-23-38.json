@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "rush-bug-repro-a-package",
+      "comment": "update 2",
+      "type": "patch"
+    }
+  ],
+  "packageName": "rush-bug-repro-a-package"
+}
