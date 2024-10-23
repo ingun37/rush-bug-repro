@@ -1,3 +1,3 @@
 export function packageB() {
-console.log('b-3');
+console.log('b-4');
 }
