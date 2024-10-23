@@ -12,6 +12,6 @@
     "rush-bug-repro-a-package": "1.0.6"
   },
   "devDependencies": {
-    "rush-bug-repro-a-package": "workspace:1.0.6"
+    "rush-bug-repro-a-package": "workspace:*"
   }
 }
